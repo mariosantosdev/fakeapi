@@ -1,0 +1,115 @@
+{
+  "plans": [
+    {
+      "id": 1,
+      "title": "Avulso",
+      "price": 50,
+      "amount": "1 Crédito"
+    },
+    {
+      "id": 2,
+      "title": "Mensal",
+      "price": 95.6,
+      "amount": "2 Créditos/ Mensal"
+    },
+    {
+      "id": 3,
+      "title": "Mensal",
+      "price": 230,
+      "amount": "5 Créditos/ Mensal"
+    },
+    {
+      "id": 4,
+      "title": "Anual",
+      "price": 2600,
+      "amount": "84 Créditos/ Mensal"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "name": "Projeto 1",
+      "owner": {
+        "name": "Joel",
+        "lastname": "Ramos"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Projeto 2",
+      "owner": {
+        "name": "Joel",
+        "lastname": "Ramos"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Projeto 3",
+      "owner": {
+        "name": "Joel",
+        "lastname": "Ramos"
+      }
+    }
+  ],
+  "singleFiles": [
+    {
+      "id": 1,
+      "name": "NF-e",
+      "type": "Arquivo",
+      "size": 1500,
+      "date": "2022-04-13T20:11:15.529Z"
+    },
+    {
+      "id": 2,
+      "name": "CNH",
+      "type": "Documento",
+      "size": 1900,
+      "date": "2022-03-09T20:11:15.529Z"
+    },
+    {
+      "id": 3,
+      "name": "Identidade",
+      "type": "Documento",
+      "size": 900,
+      "date": "2022-03-09T20:11:15.529Z"
+    }
+  ],
+  "documents": [
+    {
+      "id": 1,
+      "date": "2022-03-09T20:11:15.529Z",
+      "document": "Contrato de Prestação de Serviço.pdf",
+      "assigned": "New Contrato de Prestação de Serviço.pdf",
+      "requested": "Joel Ramos",
+      "assignType": "Eletronicamente",
+      "signatory": [
+        { "id": 1, "email": "joelramos@gmail.com", "assigned": true },
+        { "id": 2, "email": "mariodev7@gmail.com", "assigned": true },
+        { "id": 3, "email": "luciano.bolonha@gmail.com", "assigned": false }
+      ]
+    }
+  ],
+  "user": {
+    "id": "77fba24c-ae1f-11ec-b909-0242ac120002",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c",
+    "name": "Joel",
+    "lastname": "Ramos",
+    "email": "joelramos@gmail.com",
+    "birthday": "12/03/1999",
+    "documents": [{ "number": "000.000.000-00", "type": "CPF" }],
+    "address": [
+      {
+        "country": "Brasil",
+        "state": "MS",
+        "city": "Dourados",
+        "cep": "79802-030",
+        "neighborhood": "Centro",
+        "address": "Rua Cuiabá",
+        "complement": ""
+      }
+    ],
+    "phones": [{ "number": "+55 67991644756" }],
+    "credits": 10,
+    "avatar": "https://images.unsplash.com/photo-1636837991401-4434810f73f9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+  }
+}
