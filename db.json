@@ -38,8 +38,8 @@
           "email": "joelramos@gmail.com",
           "permission": "write",
           "function": "owner"
-        }, 
-      ]
+        }
+      ],
       "files": []
     },
     {
@@ -54,8 +54,8 @@
           "email": "joelramos@gmail.com",
           "permission": "write",
           "function": "owner"
-        }, 
-      ]
+        }
+      ],
       "files": []
     },
 {
@@ -78,10 +78,10 @@
           "email": "mariodev7@gmail.com",
           "permission": "write",
           "function": "owner"
-        }, 
-      ]
+        }
+      ],
       "files": []
-    },
+    }
   ],
   "singleFiles": [
     {
