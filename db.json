@@ -27,29 +27,61 @@
   ],
   "projects": [
     {
-      "id": "1",
+      "id": 1,
       "name": "Projeto 1",
-      "owner": {
-        "name": "Joel",
-        "lastname": "Ramos"
-      }
+      "description": "",
+      "participants": [
+        {
+          "id": 1,
+          "name": "Joel",
+          "lastname": "Ramos",
+          "email": "joelramos@gmail.com",
+          "permission": "write",
+          "function": "owner"
+        }, 
+      ]
+      "files": []
     },
     {
-      "id": "2",
+      "id": 2,
       "name": "Projeto 2",
-      "owner": {
-        "name": "Joel",
-        "lastname": "Ramos"
-      }
+      "description": "",
+      "participants": [
+        {
+          "id": 1,
+          "name": "Joel",
+          "lastname": "Ramos",
+          "email": "joelramos@gmail.com",
+          "permission": "write",
+          "function": "owner"
+        }, 
+      ]
+      "files": []
     },
-    {
-      "id": "3",
+{
+      "id": 3,
       "name": "Projeto 3",
-      "owner": {
-        "name": "Joel",
-        "lastname": "Ramos"
-      }
-    }
+      "description": "",
+      "participants": [
+        {
+          "id": 1,
+          "name": "Joel",
+          "lastname": "Ramos",
+          "email": "joelramos@gmail.com",
+          "permission": "write",
+          "function": "owner"
+        }, 
+        {
+          "id": 2,
+          "name": "Mário",
+          "lastname": "Santos",
+          "email": "mariodev7@gmail.com",
+          "permission": "write",
+          "function": "owner"
+        }, 
+      ]
+      "files": []
+    },
   ],
   "singleFiles": [
     {
