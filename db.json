@@ -38,7 +38,7 @@
           "lastname": "Ramos",
           "email": "joelramos@gmail.com",
           "permission": "write",
-          "function": "owner"
+          "rule": "owner"
         }
       ],
       "files": []
@@ -55,7 +55,7 @@
           "lastname": "Ramos",
           "email": "joelramos@gmail.com",
           "permission": "write",
-          "function": "owner"
+          "rule": "owner"
         }
       ],
       "files": []
@@ -72,7 +72,7 @@
           "lastname": "Ramos",
           "email": "joelramos@gmail.com",
           "permission": "write",
-          "function": "owner"
+          "rule": "owner"
         }, 
         {
           "id": 2,
@@ -80,7 +80,7 @@
           "lastname": "Santos",
           "email": "mariodev7@gmail.com",
           "permission": "write",
-          "function": "owner"
+          "rule": "co-owner"
         }
       ],
       "files": []
