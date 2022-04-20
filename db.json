@@ -31,15 +31,13 @@
       "name": "Projeto 1",
       "description": "",
       "hash": "0cc175b9c0f1b6a831c399e269772661",
+      "owner": {
+        "id": 1,
+        "name": "Joel",
+        "lastname": "Ramos",
+        "email": "joelramos@gmail.com"
+      },
       "participants": [
-        {
-          "id": 1,
-          "name": "Joel",
-          "lastname": "Ramos",
-          "email": "joelramos@gmail.com",
-          "permission": "write",
-          "rule": "owner"
-        }
       ],
       "files": []
     },
@@ -48,16 +46,13 @@
       "name": "Projeto 2",
       "description": "",
       "hash": "92eb5ffee6ae2fec3ad71c777531578f",
-      "participants": [
-        {
-          "id": 1,
-          "name": "Joel",
-          "lastname": "Ramos",
-          "email": "joelramos@gmail.com",
-          "permission": "write",
-          "rule": "owner"
-        }
-      ],
+      "owner": {
+        "id": 1,
+        "name": "Joel",
+        "lastname": "Ramos",
+        "email": "joelramos@gmail.com"
+      },
+      "participants": [],
       "files": []
     },
 {
@@ -65,17 +60,15 @@
       "name": "Projeto 3",
       "description": "",
       "hash": "4a8a08f09d37b73795649038408b5f33",
+      "owner": {
+        "id": 1,
+        "name": "Joel",
+        "lastname": "Ramos",
+        "email": "joelramos@gmail.com"
+      },
       "participants": [
-        {
+       {
           "id": 1,
-          "name": "Joel",
-          "lastname": "Ramos",
-          "email": "joelramos@gmail.com",
-          "permission": "write",
-          "rule": "owner"
-        }, 
-        {
-          "id": 2,
           "name": "Mário",
           "lastname": "Santos",
           "email": "mariodev7@gmail.com",
